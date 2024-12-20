@@ -1,0 +1,22 @@
+@use
+    './mixins'
+;
+@use
+    './color.scss'
+;
+@use
+    './typography.scss'
+;
+@use
+    './base.scss'
+;
+@use
+    './element/indexElement'
+;
+
+@use
+    './bloc/main-wrap.scss'
+;
+@use
+    './variable.scss'
+;

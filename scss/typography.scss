@@ -1,0 +1,71 @@
+
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.fa-mail-bulk{
+    color: white;
+}
+.fa-facebook{
+    color: skyblue;
+}
+.fa-youtube{
+    color: red;
+}
+.profil{
+    p{
+        color: #fff;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 50;
+        text-transform: capitalize;
+        margin-left: 50px;
+    }
+    h2{
+        color: blue;
+        text-transform: capitalize;
+        margin-left: 50px;
+    }
+    h3{
+        color: aqua;
+        text-align: center;
+        font-size: 50px;
+        font-family: cursive;
+        text-decoration: underline;
+        font-weight: 50;
+    }
+    ul{
+
+        li{
+            color: #fff;
+            font-family: verdana;
+            font-style: oblique;
+            margin-left: 50px;
+    
+        }  
+    }
+}
+.realisation{
+    .title {
+        color: grey;
+    }
+}
+.main-wrap {
+    .showcase{
+        .content{
+            h3{
+                font-size: 45px;
+                font-weight: 500;
+                line-height: 55px;
+                color: #fff;
+    
+            }
+            p{
+                font-size: 15px;
+                font-weight: 500;
+                line-height: 25px;
+                color: #fff;
+            }
+        }
+    }
+}
